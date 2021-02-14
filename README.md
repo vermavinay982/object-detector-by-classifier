@@ -6,6 +6,6 @@ Color of the boxes are as per the confidence of classifier for the particular se
 
 Green - High Confidence & Red - Lower Confidence 
 <br>
-<img width=500 src=https://github.com/vermavinay982/Object-Detector-from-Scratch/blob/main/color_base_output.jpg>
+<img width=800 src=https://github.com/vermavinay982/Object-Detector-from-Scratch/blob/main/color_base_output.jpg>
 
-<img width=500 src=https://github.com/vermavinay982/Object-Detector-from-Scratch/blob/main/my_plot.jpg>
+<img width=800 src=https://github.com/vermavinay982/Object-Detector-from-Scratch/blob/main/my_plot.jpg>
